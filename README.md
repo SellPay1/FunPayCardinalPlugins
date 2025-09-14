@@ -20,7 +20,7 @@
 
 ## 🔗 Ссылка на бота
 
-[Открыть Fyntra | FPC в Telegram](https://t.me/FyntraFPC_bot)
+[Открыть Fyntra | Bot в Telegram](https://t.me/Fyntra_bot)
 
 ## ✅ Почему выбирают Fyntra | FPC
 
